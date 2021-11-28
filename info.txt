@@ -1,0 +1,18 @@
+Verifying StokeExchange
+Pass - Verified: https://rinkeby.etherscan.io/address/0xbc9AA73F197F5aAF3929c287a5e5ed3D3E238De5#code
+Successfully verified 1 contract(s).
+
+Verifying FirstToken
+Pass - Verified: https://rinkeby.etherscan.io/address/0x102C949B70D6Df7E136103142dFcc43126898164#code
+Successfully verified 1 contract(s).
+
+Verifying SecondToken
+Already Verified: https://rinkeby.etherscan.io/address/0x86dAE70dc9B4D02D89fC5F20368d747154dD872f#code
+Successfully verified 1 contract(s).
+
+Verifying ThirdToken
+Pass - Verified: https://rinkeby.etherscan.io/address/0x96F50092b04cced60Ae0040A898881AFEeD02240#code
+Successfully verified 1 contract(s).
+
+
+
